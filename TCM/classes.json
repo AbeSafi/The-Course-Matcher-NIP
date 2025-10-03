@@ -120,6 +120,126 @@
       "code": "CSCI4940",
       "description": "",
       "tags": []
+    },
+    {
+      "name": "Topics in Computer Science",
+      "code": "CSCI4960",
+      "description": "",
+      "tags": []
+    },
+    {
+      "name": "Machine Learning from Data",
+      "code": "CSCI6100",
+      "description": "Introduction to the theory, algorithms, and applications of machine learning (supervised, reinforcement, and unsupervised) from data: What is learning? Is learning feasible? How can it be done? How can it be done well? The course offers a mix of theory, technique, and application with additional selected topics chosen from Pattern Recognition, Decision Trees, Neural Networks, RBF’s, Bayesian Learning, PAC Learning, Support Vector Machines, Gaussian processes, and Hidden Markov Models.",
+      "tags": []
+    },
+    {
+      "name": "Computational Vision",
+      "code": "CSCI6270",
+      "description": "The goal of this course is to introduce students to the problems, challenges, and applications of computer vision from a computational perspective. Topics include camera modeling and image formation, feature extraction, object and face recognition, image mosaic construction, stereo and three-dimensional imaging, motion, and tracking. Machine learning methods, including deep convolutional neural networks, will be studied and applied throughout the course. ",
+      "tags": []
+    },
+    {
+      "name": "Parallel Computing",
+      "code": "CSCI6360",
+      "description": "A survey of fundamental issues in design of efficient programs for parallel computers. The topics discussed include models of parallel machines and programs, efficiency of parallel algorithms, programming styles for shared memory, message passing, data parallelism, and using MPI in scientific parallel programs. Parallel programming project required.",
+      "tags": [] 
+    },
+    {
+      "name": "Data Mining",
+      "code": "CSCI6390",
+      "description": "This course will provide an introductory survey of the main topics in data mining and knowledge discovery in databases (KDD), including: classification, clustering, association rules, sequence mining, similarity search, deviation detection, and so on. Emphasis will be on the algorithmic and system issues in KDD, as well as on applications such as Web mining, multimedia mining, bioinformatics, geographical information systems, etc.",
+      "tags": []
+    },
+    {
+      "name": "Distibuted Computing Over The Internet",
+      "code": "CSCI6500",
+      "description": "This course will enable students to understand and apply theoretical foundations of programming concurrent, distributed, and mobile computing systems, namely process calculi, actors, join calculus, and mobile ambients. In the practical part, students will compare communication and synchronization aspects in concurrent programming languages following these theoretical models. Students will also review current research on distributed computing over the Internet, on topics including but not limited to coordination, mobility, heterogeneity, security, fault tolerance, scalability, programmability, and verification.",
+      "tags": []
+    },
+    {
+      "name": "Distributed Systems and Algorithms",
+      "code": "CSCI6510",
+      "description": "This course explores the principles of distributed systems, emphasizing fundamental issues underlying the design of such systems: communication, coordination, synchronization, and fault-tolerance. Key algorithms and theoretical results will be studied and students will explore how these foundations play out in modern systems and applications.",
+      "tags": []
+    },
+    {
+      "name": "Advanced Computer Graphics",
+      "code": "CSCI6530",
+      "description": "In this course, there will be a survey of classic papers and current research in computer graphics. Topics include: advanced ray tracing, global illumination, photon mapping, subsurface scattering, mesh generation and simplification, subdivision surfaces, volumetric modeling, procedural modeling and texturing, weathering, physical simulation, appearance models. Course activities include programming assignments, oral presentations, and a term project. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Computational Linear Algebra",
+      "code": "CSCI6800",
+      "description": "Gaussian elimination, special linear systems (such as positive definite, banded, or sparse), introduction to parallel computing, iterative methods for linear systems (such as conjugate gradient and preconditioning), QR factorization and least squares problems, and eigenvalue problems.",
+      "tags": [] 
+    },
+    {
+      "name": "Numerical Solution of Ordinary Differential Equations",
+      "code": "CSCI6820",
+      "description": "Numerical methods and analysis for ODEs with applications from mechanics, optics, and chaotic dynamics. Numerical methods for dynamic systems include Runge-Kutta, multistep and extrapolation techniques, methods for conservative and Hamiltonian systems, methods for stiff differential equations and for differential-algebraic systems. Methods for boundary value problems include shooting and orthogonalization, finite difference and collocation techniques, and special methods for problems with boundary or shock layers.",
+      "tags": []
+    },
+    {
+      "name": "Numerical Solution of Partial Differential Equations",
+      "code": "CSCI6840",
+      "description": "Numerical methods and analysis for linear and nonlinear PDEs with applications from heat conduction, wave propagation, solid and fluid mechanics, and other areas. Basic concepts of stability and convergence (Lax equivalence theorem, CFL condition, energy methods). Methods for parabolic problems (finite differences, method of lines, ADI, operator splitting), methods for hyperbolic problems (vector systems and characteristics, dissipation and dispersion, shocks capturing and tracking schemes), methods for elliptic problems (finite difference and finite volume methods). ",
+      "tags": []
+    },
+    {
+      "name": "Finite Element Analysis",
+      "code": "CSCI6860",
+      "description": "Galerkin’s method and extremal principles, finite element approximations (Lagrange, hierarchical and 3-D approximations, interpolation errors), mesh generation and assembly, adaptivity (h-, p-, hp-refinement). Error analysis and convergence rates. Perturbations resulting from boundary approximation, numerical integration, etc. Time dependent problems including parabolic and hyperbolic PDEs. Applications will be selected from several areas including heat conduction, wave propagation, potential theory, and solid and fluid mechanics.",
+      "tags": []
+    },
+    {
+      "name": "Computer Science Seminar",
+      "code": "CSCI6900",
+      "description": "Presentation of current developments in computer science. Reports by students.",
+      "tags": []
+    },
+    {
+      "name": "Readings in Computer Science",
+      "code": "CSCI6940",
+      "description": "",
+      "tags": [] 
+    },
+    {
+      "name": "Topics in Computer Science",
+      "code": "CSCI6960",
+      "description": "",
+      "tags": []
+    },
+    {
+      "name": "Professional Project",
+      "code": "CSCI6970",
+      "description": "Active participation in a semester-long project, under the supervision of a faculty adviser. A Professional Project often serves as a culminating experience for a Professional Master’s program but, with departmental or school approval, can be used to fulfill other program requirements. With approval, students may register for more than one Professional Project. Professional Projects must result in documentation established by each department or school, but are not submitted to the Office of Graduate Education and are not archived in the library. Grades of A, B, C, or F are assigned by the faculty adviser at the end of the semester. If not completed on time, a formal Incomplete grade may be assigned by the faculty adviser, listing the work remaining to be completed and the time limit for completing this work.",
+      "tags": []
+    },
+    {
+      "name": "Master's Project",
+      "code": "CSCI6980",
+      "description": "Active participation in a master’s-level project, under the supervision of a faculty adviser, leading to a master’s project report. Grades S or U are assigned at the end of the semester.  If recommended by the adviser, the master’s project may be accepted by the Office of Graduate Education to be archived in the library.",
+      "tags": []
+    },
+    {
+      "name": "Master's Thesis",
+      "code": "CSCI6990",
+      "description": "Active participation in research, under the supervision of a faculty adviser, leading to a master’s thesis. Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester. Once the thesis has been presented, approved by the adviser, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+      "tags": []
+    },
+    {
+      "name": "Dissertation",
+      "CSCI": "CSCI9990",
+      "description": "Active participation in research, under the supervision of a faculty adviser, leading to a doctoral dissertation.  Grades of S or U are assigned by the adviser each term to reflect the student’s research progress for the given semester.  Once the dissertation has been publicly defended, approved by the doctoral committee, and accepted by the Office of Graduate Education, it will be archived in a standard format in the library.",
+      "tags": []
+    },
+    {
+      "name": "Foundations of Computer Science",
+      "code": "CSCI2200",
+      "description": "This course introduces important mathematical and theoretical tools for computer science, including topics from set theory, combinatorics, and probability theory, and then proceeds to automata theory, the Turing Machine model of computation, and notions of computational complexity. The course will emphasize formal reasoning and proof techniques.",
+      "tags": []
     }
   ]
 }
