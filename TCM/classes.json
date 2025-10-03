@@ -240,6 +240,126 @@
       "code": "CSCI2200",
       "description": "This course introduces important mathematical and theoretical tools for computer science, including topics from set theory, combinatorics, and probability theory, and then proceeds to automata theory, the Turing Machine model of computation, and notions of computational complexity. The course will emphasize formal reasoning and proof techniques.",
       "tags": []
+    },
+    {
+      "name": "Data Science",
+      "code": "CSCI4350",
+      "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
+      "tags": []
+    },
+    {
+      "name": "Data Science",
+      "code": "CSCI6350",
+      "description": "Data science is advancing the inductive conduct of science and is driven by the greater volumes, complexity, and heterogeneity of data being made available over the Internet. It combines aspects of data management, library science, computer science, and physical science. It is changing the way all of these disciplines do both their individual and collaborative work. Key methodologies in application areas based on real research experience are taught.",
+      "tags": []
+    },
+    {
+      "name": "X-informatics",
+      "code": "CSCI4400",
+      "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+      "tags": []
+    },
+    {
+      "name": "X-informatics",
+      "code": "CSCI6400",
+      "description": "Informatics covers a broad range of disciplines addressing challenges in the explosion of data and information resources. Xinformatics provides commonality for implementations in specific disciplines, e.g. X=astro, geo. Informatics’ theoretical bases are information and computer science, cognitive science, social science, library science, aggregating these studies and adding the practice of information processing, and the engineering of information systems. This course grounds the material that students will learn in discipline areas by coursework and project assignments.",
+      "tags": []
+    },
+    {
+      "name": "Principles of Software",
+      "code": "CSCI2600",
+      "description": "A study of important concepts in software design, implementation, and testing. Topics include specification, abstraction with classes, design principles and patterns, testing, refactoring, the software development process, GUI and event-driven programming, and cloud-based programming. The course also introduces implementation and testing tools, including IDEs, revision control systems, and other frameworks. The overarching goal of the course is for students to learn how to write correct and maintainable software.",
+      "tags": []
+    },
+    {
+      "name": "Cryptography and Network Security I",
+      "code": "CSCI4230",
+      "description": "A self-contained course that includes topics from number theory, basic cryptography, and protocol security. This is a hybrid course with sufficient depth in both theory and hands-on experience with network protocols. Topics include: Classical Cryptography, Block Ciphers (DES, AES), Information Theoretical Cryptography, Randomness, RNG and Stream Ciphers, Hash and MAC Algorithms, Public-Key Cryptography, Elliptic Curve Cryptography, Digital Signatures and Identification, Internet Attacks, Web Security, SSL and PGP. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Cryptography and Network Security I",
+      "code": "CSCI6230",
+      "description": "A self-contained course that includes topics from number theory, basic cryptography, and protocol security. This is a hybrid course with sufficient depth in both theory and hands-on experience with network protocols. Topics include: Classical Cryptography, Block Ciphers (DES, AES), Information Theoretical Cryptography, Randomness, RNG and Stream Ciphers, Hash and MAC Algorithms, Public-Key Cryptography, Elliptic Curve Cryptography, Digital Signatures and Identification, Internet Attacks, Web Security, SSL and PGP. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Randomized Algorithms",
+      "code": "CSCI6220",
+      "description": "State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year.",
+      "tags": []
+    },
+    {
+      "name": "Data and Society",
+      "code": "CSCI4370",
+      "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking, and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Computational Social Processes",
+      "code": "CSCI4110",
+      "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews.",
+      "tags": []
+    },
+    {
+      "name": "Computational Social Processes",
+      "code": "CSCI6110",
+      "description": "Introduction to the computational and algorithmic aspects of social processes. Topics covered will be selected to illustrate the diverse challenges in algorithmic social process analysis: social networks and their dynamics; information flow; hidden networks. Algorithms involving social and selfish agents, social choice theory, voting, and auctions. Ranking actors in networks, recommendation systems, peer-review, and aggregation of rankings/reviews.",
+      "tags": []
+    },
+    {
+      "name": "Computational Finance",
+      "code": "CSCI4120",
+      "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes.",
+      "tags": []
+    },
+    {
+      "name": "Computational Finance",
+      "code": "CSCI6120",
+      "description": "Introduction to the computational and mathematical techniques for practical financial applications. The course will emphasize the algorithmic side of finance. Topics will be selected from pricing (options and derivatives), trading, risk-evaluation, selfish agents, sequential decisions, and portfolio optimization. Examples of the mathematical and algorithmic techniques covered are martingale measures, risk-neutral pricing and Monte Carlo, dynamic programing, and stochastic processes.", 
+      "tags": []
+    },
+    {
+      "name": "Frontiers of Network Science",
+      "code": "CSCI4250",
+      "description": "This course will offer an introduction to network science and a review of current research in this area. Classes will interchangeably present chapters from the textbook and related current research. The emphasis will be on the mathematical background of network science: graphs and networks; random networks and various types of scale-free networks; network properties such as assortativity, mobility, robustness, social networks, and communities; and dynamics of spreading in networks.",
+      "tags": []
+    },
+    {
+      "name": "Frontiers of Network Science",
+      "code": "CSCI6250",
+      "description": "This course will offer an introduction to network science and a review of current research in this area. Classes will interchangeably present chapters from the textbook and related current research. The emphasis will be on the mathematical background of network science: graphs and networks; random networks and various types of scale-free networks; network properties such as assortativity, mobility, robustness, social networks, and communities; and dynamics of spreading in networks.",
+      "tags": []
+    },
+    {
+      "name": "Data and Society",
+      "code": "CSCI6370",
+      "description": "Data and Society provides a broad overview of how society is leveraging and responding to the social, organizational, policy, and technical opportunities and challenges of a data-driven world. Course themes focus on various aspects of the data ecosystem, data and innovation, and data and the broader community. Assignments build writing, presentation, and critical thinking and assessment skills, all of which are important for professional success. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Principles of Program Analysis",
+      "code": "CSCI4450",
+      "description": "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
+      "tags": []
+    },
+    {
+      "name": "Principles of Program Analysis",
+      "code": "CSCI6450",
+      "description": "The goal of this course is to introduce students to program analysis and its many applications in software engineering, particularly in improving software quality and software productivity. Concretely, students who successfully complete this course should be able to: (1) understand and apply program analysis techniques, such as dataflow analysis and type-based analysis; (2) implement program analysis; (3) understand and apply software testing techniques, such as black-box testing and white-box testing; and (4) understand and apply refactoring techniques.",
+      "tags": []
+    },
+    {
+      "name": "Distributed Computing Over The Internet",
+      "code": "CSCI4500",
+      "description": "This course will enable students to understand and apply theoretical foundations of programming concurrent, distributed, and mobile computing systems, namely process calculi, actors, join calculus, and mobile ambients. In the practical part, students will compare communication and synchronization aspects in concurrent programming languages following these theoretical models. Students will also review current research on distributed computing over the Internet, on topics including but not limited to coordination, mobility, heterogeneity, security, fault tolerance, scalability, programmability, and verification.",
+      "tags": []
+    },
+    {
+      "name": "Distributed Systems and Algorithms",
+      "code": "CSCI4510",
+      "description": "This course explores the principles of distributed systems, emphasizing fundamental issues underlying the design of such systems: communication, coordination, synchronization, and fault-tolerance. Key algorithms and theoretical results will be studied and students will explore how these foundations play out in modern systems and applications.",
+      "tags": []
     }
   ]
 }
