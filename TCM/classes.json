@@ -360,6 +360,40 @@
       "code": "CSCI4510",
       "description": "This course explores the principles of distributed systems, emphasizing fundamental issues underlying the design of such systems: communication, coordination, synchronization, and fault-tolerance. Key algorithms and theoretical results will be studied and students will explore how these foundations play out in modern systems and applications.",
       "tags": []
+    },
+    {
+      "name": "Interactive Visualization",
+      "code": "CSCI4550",
+      "description": "Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, three-dimensional surfaces, flow fields, and medical data. Both existing visualization software and program custom visualizations using C++ and OpenGL will be used. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Interactive Visualization",
+      "code": "CSCI6550",
+      "description": "Visualizing data is a key step in understanding many problems. This course is designed to introduce students to methods of visualizing many different types of data, such as images, three-dimensional surfaces, flow fields, and medical data. Both existing visualization software and program custom visualizations using C++ and OpenGL will be used. Course activities include discussion of recent and classic research papers, weekly homework assignments, in-class critiques of visualization artifacts, and a final project to explore creative uses of these techniques. This is a communication-intensive course.",
+      "tags": [] 
+    },
+    {
+      "name": "Randomized Algorithms",
+      "code": "CSCI4030",
+      "description": "State-of-the-art in contemporary algorithm design, randomized algorithms are algorithms that use randomness as part of their functioning. They are typically simple, often easy to analyze, and work well in practice. They have numerous applications in many fields of computer science and mathematics. Randomized algorithms represent an active and vibrant research area with many exciting new results contributed every year.",
+      "tags": []
+    },
+    {
+      "name": "Computational Vision",
+      "code": "CSCI4270",
+      "description": "The goal of this course is to introduce students to the problems, challenges, and applications of computer vision from a computational perspective. Topics include camera modeling and image formation, feature extraction, object and face recognition, image mosaic construction, stereo and three-dimensional imaging, motion, and tracking. Machine learning methods, including deep convolutional neural networks, will be studied and applied throughout the course.",
+      "tags": []
+    },
+    {
+      "name": "Approxomation Algorithms",
+      "code": "CSCI4040",
+      "description": "Algorithms with provable guarantees on the quality of their solutions are a powerful way of dealing with intractable problems. This course covers fundamental techniques for designing approximation algorithms. Possible topics include: semi-definite and linear programming, inapproximability and the PCP theorem, randomized rounding, metrics and cuts, primal-dual methods, and online algorithms.",
+      "tags": []
+    },
+    {
+      "name": "Approxomation Algorithms",
+      "code": "CSCI6040"
     }
   ]
 }
