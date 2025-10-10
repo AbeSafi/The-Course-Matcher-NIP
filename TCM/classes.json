@@ -420,6 +420,126 @@
       "code": "CSCI6310",
       "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course.",
       "tags": []
+    },
+    {
+      "name": "Large-Scale Programming and Testing",
+      "code": "CSCI4460",
+      "description": "This course focuses on software development techniques in support of large-scale software projects and maintenance. Specific topics include various programming paradigms and techniques, approaches to testing and automation, debugging, refactoring, and inheriting code. Individual and team assignments are required, including programming assignments. Project topics include text processing, building a search engine, and the like. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Large-Scale Programming and Testing",
+      "code": "CSCI6460",
+      "description": "This course focuses on software development techniques in support of large-scale software projects and maintenance. Specific topics include various programming paradigms and techniques, approaches to testing and automation, debugging, refactoring, and inheriting code. Individual and team assignments are required, including programming assignments. Project topics include text processing, building a search engine, and the like.",
+      "tags": []
+    },
+    {
+      "name": "Open Source Software",
+      "code": "CSCI4470",
+      "description": "Open source communities are proven development engines for creating large diverse user-focused software; however, these communities are not easily supported by traditional models of software development. Expected behaviors, tools, and licensing are uniquely adapted to the needs of an often volunteer workforce, distributed and asynchronous development, and meritocracy. In this course, students use and develop open source software, create open source repositories, and participate in open source communities.",
+      "tags": []
+    },
+    {
+      "name": "Computability and Logic",
+      "code": "CSCI4420",
+      "description": "This course covers basic concepts and results in mathematical logic and computability theory, including decision procedures, automated theorem proving techniques for truth-functional and first-order logic, axiomatizations of set theory and arithmetic, Turing Machines, Abacus Machines, recursive functions, the Church-Turing Thesis, the halting problem, undecidability of first-order logic, undecidability of arithmetic, and Godel’s incompleteness results.",
+      "tags": []
+    },
+    {
+      "name": "Data Analytics",
+      "code": "CSCI4600",
+      "description": "The world at-large is confronted with increasingly larger and complex sets of structured/unstructured information; from cyber and human sources. Traditional enterprises are moving toward analytics-driven approaches for core business functions. Data and information analytics extends analysis (descriptive models of data) by using data mining and machine learning methods, with optimization and validation, to recommend action or guide and communicate decision-making. Thus, analytics is an entire methodology rather than individual analyses or analysis steps.",
+      "tags": []
+    },
+    {
+      "name": "Computational Geometry",
+      "code": "CSCI4560",
+      "description": "We will study theoretical and practical solutions to computational geometry problems found in computer graphics, visualization, vision, robotics, engineering, manufacturing, and geographic information systems.  Topics include convex hulls, half-planes, Voronoi diagrams, Delaunay triangulations, binary space partitions, motion planning, visibility, and meshes. Course activities include programming assignments, written homework with proofs of computational complexity, and a term project with presentation.",
+      "tags": []
+    },
+    {
+      "name": "Computational Geometry",
+      "code": "CSCI6560",
+      "description": "We will study theoretical and practical solutions to computational geometry problems found in computer graphics, visualization, vision, robotics, engineering, manufacturing, and geographic information systems.  Topics include convex hulls, half-planes, Voronoi diagrams, Delaunay triangulations, binary space partitions, motion planning, visibility, and meshes. Course activities include programming assignments, written homework with proofs of computational complexity, and a term project with presentation.",
+      "tags": []
+    },
+    {
+      "name": "Material Informatics and Data Science",
+      "code": "CSCI4730",
+      "description": "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
+      "tags": []
+    },
+    {
+      "name": "Material Informatics and Data Science",
+      "code": "CSCI6730",
+      "description": "Introduction to data science and machine learning, with case studies in discovery of structure-property relationships and new materials from experimental and computational data. Brief review of required background in linear algebra and statistics with hands-on exercises in Python. Data science topics: model fitting, clustering, dimensionality reduction, ontologies, Bayesian inference, and design of experiments.",
+      "tags": []
+    },
+    {
+      "name": "Modern Binary Exploitation",
+      "code": "CSCI4850",
+      "description": "Modern Binary Exploitation will focus on teaching practical offensive security skills in binary exploitation and reverse engineering. Through a combination of interactive lectures and hands on labs, the course will offer students an opportunity to explore some of the most technically involved and fascinating subjects in the rapidly evolving field of security. It will cover protections found on modern systems and the techniques used to defeat them.",
+      "tags": []
+    },
+    {
+      "name": "Web Science Systems Development",
+      "code": "CSCI4520",
+      "description": "Building on the technology covered in Web Systems Development, students will be exposed to current technologies, frameworks, and practices in the area of Web development. Types of topics included will be HTML5/CSS3, API’s for data, node.js, MongoDB, and Angular. Methodology to be explored will be application design, software versioning, and team development. Lab intensive, this course is intended to complete a foundation for the advanced courses in Data Science and Advanced Web Science.",
+      "tags": []
+    },
+    {
+      "name": "Web Systems Development",
+      "code": "CSCI2110",
+      "description": "This course involves a study of the methods used to extract and deliver dynamic information on the World Wide Web. The course uses a hands-on approach in which students actively develop Web-based software systems. Additional topics include installation, configuration, and management of Web servers. Students are required to have access to a PC on which they can install software such as a Web server and various programming environments.",
+      "tags": []
+    },
+    {
+      "name": "Early Introduction to RCOS",
+      "code": "CSCI1700",
+      "description": "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects. This initial course provides the core skills required to work on an open source project.",
+      "tags": []
+    },
+    {
+      "name": "Introduction to RCOS",
+      "code": "CSCI2700",
+      "description": "The Rensselaer Center for Open Source (RCOS) is an eclectic group of undergraduate students working on team-based open source projects, including both software and open hardware projects. This initial course provides the core skills required to work on an open source project.",
+      "tags": []
+    },
+    {
+      "name": "Application Design Using Java",
+      "code": "CSCI4330",
+      "description": "Java is one of the most popular general purpose modern programming languages used in industry. This course focuses on learning and practicing advanced Java features which are widely used in industry and academia. The first part of the course is dedicated to object-oriented features of Java and how to use them in software design. It also covers all major tools that support development process during the entire software development life cycle. The second part of the course covers parallel programming, how it can be implemented in Java, its advantages and limitations. The third part of the course is dedicated to creating Web applications. Finally, the fourth part of the course discusses different database models and provides specific details on how to create Java applications that can use different databases as a data storage option. Special attention is given to noSQL graph databases which combined with Java allow building solutions that are capable of storing, manipulating, and analyzing billion-node scale networks.",
+      "tags": []
+    },
+    {
+      "name": "Mathematical Foundations of Machine Learning",
+      "code": "CSCI4360",
+      "description": "This course covers the essential building blocks of machine learning, focusing on topics in linear algebra, continuous probability and stochastic, and optimization. This provides students with foundational mathematical concepts to the components of machine learning - data, models, and learning algorithms - at an introductory level, emphasizing their basic functionalities and relationships. These mathematical foundations are the bedrock upon which machine learning is constructed. The topics that will be covered in this course are: Vectors, matrices, matrix operations and decomposition, eigenvalues, eigenvectors, vector calculus, calculating gradients of functions of vectors and matrices, probability theory, and linear regression.",
+      "tags": []
+    },
+    {
+      "name": "AI in Fiction and Fact",
+      "code": "CSCI4130",
+      "description": "This interdisciplinary course explores the fascinating intersection between Artificial Intelligence (AI) as portrayed in fiction and its real-world counterparts. Students will delve into literary and cinematic works as well as news media and current affairs that feature AI while concurrently studying the historical development, technological underpinnings, ethical considerations, and societal impacts of AI. Through critical analysis, discussions, and a project, students will gain a nuanced understanding of AI’s portrayal in various media and its implications in our rapidly evolving world.",
+      "tags": []
+    },
+    {
+      "name": "Machine Learning and Optimization",
+      "code": "CSCI4140",
+      "description": "The first portion of this course introduces the optimization background necessary to understand the algorithms that dominate the landscape of machine learning. The second portion introduces effective architectures used in modern machine learning. Students revisit classical models and learn state-of-the-art models, always in service of gaining algorithmic insight that is broadly useful beyond specific models.",
+      "tags": []
+    },
+    {
+      "name": "Trustworthy Machine Learning",
+      "code": "CSCI4180",
+      "description": "This seminar course introduces students with knowledge of machine learning to modern desiderata for trustworthy machine learning, including alignment, fairness, adversarial robustness, privacy, and their interrelations. Students read, present, and discuss seminal and influential recent papers in the field. The course includes a project component aimed at synthesizing the students’ learning",
+      "tags": []
+    },
+    {
+      "name": "Reinforcement Learning",
+      "code": "CSCI4160",
+      "description": "This is an introductory course on the theory and practice of reinforcement learning (RL). We will derive the full RL framework, starting from Markov chains and Markov reward processes and building up to Markov decision processes. We will then cover classic RL approaches such as dynamic programming, Monte Carlo methods and Q-learning. Furthermore, we will cover more advanced topics such as deep learning, deep RL, as well as policy-gradient and actor-critic methods. Course activities include programming assignments as well as written homework testing students’ understanding of the material.",
+      "tags": []
     }
   ]
 }
