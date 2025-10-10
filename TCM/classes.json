@@ -393,7 +393,33 @@
     },
     {
       "name": "Approxomation Algorithms",
-      "code": "CSCI6040"
+      "code": "CSCI6040",
+      "description": "Algorithms with provable guarantees on the quality of their solutions are a powerful way of dealing with intractable problems. This course covers fundamental techniques for designing approximation algorithms. Possible topics include: semi-definite and linear programming, inapproximability and the PCP theorem, randomized rounding, metrics and cuts, primal-dual methods, and online algorithms.",
+      "tags": []
+    },
+    {
+      "name": "Ontologies",
+      "code": "CSCI4340",
+      "description": "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in Web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
+      "tags": []
+    },
+    {
+      "name": "Ontologies",
+      "code": "CSCI6340",
+      "description": "This course provides an introduction to ontologies, their uses, and an overview of their application in semantically enabled systems. Ontologies encode term meanings and are used to improve communication and enable computer programs to function more effectively. Class participants learn how to use ontologies in web-based applications and evaluate ontologies for reuse. Participants read relevant papers, learn how to critically review ontology papers and ontologies, and participate in group project(s) designing, using, and evaluating ontologies.",
+      "tags": []
+    },
+    {
+      "name": "Networking in the Linux Kernel",
+      "code": "CSCI4310",
+      "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course. This is a communication-intensive course.",
+      "tags": []
+    },
+    {
+      "name": "Networking in the Linux Kernel",
+      "code": "CSCI6310",
+      "description": "This course introduces Linux kernel programming basics and starts by examining how Berkeley sockets bridge the user-kernel gap. The remainder of the course is spent looking into transport layer (e.g., TCP) and network layer (e.g., IP) implementations. Students do both individual and group programming projects. In addition to coding, there are detailed write-ups and peer reviews in this course.",
+      "tags": []
     }
   ]
 }
