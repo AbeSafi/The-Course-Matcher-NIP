@@ -540,6 +540,114 @@
       "code": "CSCI4160",
       "description": "This is an introductory course on the theory and practice of reinforcement learning (RL). We will derive the full RL framework, starting from Markov chains and Markov reward processes and building up to Markov decision processes. We will then cover classic RL approaches such as dynamic programming, Monte Carlo methods and Q-learning. Furthermore, we will cover more advanced topics such as deep learning, deep RL, as well as policy-gradient and actor-critic methods. Course activities include programming assignments as well as written homework testing students’ understanding of the material.",
       "tags": []
+    },
+    {
+      "name": "Projects in AI & Machine Learning",
+      "code": "CSCI4170",
+      "description": "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems. Course activities include weekly project-based assignments, reading research papers, weekly discussion on recent research related to the lecture topic and a final project/paper with presentation.",
+      "tags": []
+    },
+    {
+      "name": "Social Computing",
+      "code": "CSCI4545",
+      "description": "Social computing is a research area at the intersection of computer science and social science, including psychology, sociology, communication, and linguistics. Its objective is to advance both fields by combining the power of data analytics, natural language processing, and artificial intelligence with the scientific method for studying human data and human behavior.",
+      "tags": []
+    },
+    {
+      "name": "Computer Architecture & Operating Systems",
+      "code": "CSCI2800",
+      "description": "Introduction to computer architecture, assembler and C programming, and operating systems. Coverage includes numeric representations, processors, memory, I/O, digital logic gates, digital logic circuits, machine-level instruction formats, addressing modes, instruction types, and flow of control. Operating systems coverage includes memory management, processes, interprocess communication (IPC), system calls, synchronization, parallel programming, and network programming. Programming projects are required.",
+      "tags": []
+    },
+    {
+      "name": "Theory of Computation",
+      "code": "CSCI4050",
+      "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook’s theorem. We will also discuss some emerging and unconventional computing models.",
+      "tags": []
+    },
+    {
+      "name": "Theory of Computation",
+      "code": "CSCI6050",
+      "description": "This course covers the formal foundations of computability and complexity. We aim to answer fundamental questions about what problems can be solved and what problems cannot be solved, and what problems can be solved given our limited resources. Topics include: the Church-Turing thesis; variations of Turing Machines; decidability; the Halting Problem; reducibility; the Recursion Theorem; time and space complexity; intractability; NP-completeness; and Cook’s theorem. We will also discuss some emerging and unconventional computing models.",
+      "tags": []
+    },
+    {
+      "name": "Decentralized AI",
+      "code": "CSCI4190",
+      "description": "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+      "tags": []
+    },
+    {
+      "name": "Decentralized AI",
+      "code": "CSCI6190",
+      "description": "This course explores the synergistic combination of Artificial Intelligence (AI) and Blockchain technologies. A primary focus of this course is to identify the disruptors in the two technologies from a critical research lens. We discuss how leveraging blockchain technology can benefit AI and how applying AI can enhance the capabilities of blockchain technology. Further, students are encouraged to think about the impact these two technologies have on society. Topics include blockchain fundamentals, smart contracts, web3, federated machine learning, and decentralized applications that combine AI and blockchain technologies.",
+      "tags": [] 
+    },
+    {
+      "name": "Time Series Analysis",
+      "code": "CSCI4240",
+      "description": "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
+      "tags": []
+    },
+    {
+      "name": "Time Series Analysis",
+      "code": "CSCI6240",
+      "description": "Time series (TS) are found in a wide range of applications, including economics and finance, biomedical domains, etc. This course introduces the theory and practice of statistical TS analysis. We study how TS data are sampled and how to resample, which relates to the missing data problem. We also analyze TS data to identify deterministic and nondeterministic components, fitting a model to such data for prediction. Topics covered include stationary and non-stationary stochastic processes, autoregressive and moving average (ARMA) models, state-space models and the Kalman filter, forecasting and forecast evaluation, and an outline of spectral techniques. We also cover deep neural networks relevant to TS data, including RNN and LSTM. Course activities include programming and analytical assignments, a term project with a presentation, and exams.",
+      "tags": []
+    },
+    {
+      "name": "Graph Mining",
+      "code": "CSCI4280",
+      "description": "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+      "tags": []
+    },
+    {
+      "name": "Graph Mining",
+      "code": "CSCI6280",
+      "description": "This class is an introduction to graph processing and mining. Students will learn about research and analytical challenges related to the study of real-world graphs. Course topics may include, but are not limited to: general graph processing techniques, connectivity and centrality algorithms, recommender systems, link prediction, community detection, subgraph mining, graph neural networks, random graph models, random walks, and the interplay between graphs and linear algebra. Course activities include programming assignments, paper presentations, and a semester-long project involving a proposal presentation, update presentation, and final presentation and writeup.",
+      "tags": []
+    },
+    {
+      "name": "Computing and Quantum Computing",
+      "code": "CSCI4610",
+      "description": "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of “What is quantum computing and how do we do it?” before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.).",
+      "tags": []
+    },
+    {
+      "name": "Computing and Quantum Computing",
+      "code": "CSCI6610",
+      "description": "A course on computing and quantum computing emphasizing the theory and foundations. The course begins with advanced topics in the theory of computing (Turing Machines, undecidability, complexity and Boolean circuits, NP-completeness). The course then covers the foundations of Quantum Computing addressing the fundamental questions of “What is quantum computing and how do we do it?” before moving on to exploring quantum algorithm design by covering standard design techniques as well as the quantum algorithms for gatekeeper problems (quantum search, quantum counting, quantum approximate optimization, quantum machine learning, etc.).",
+      "tags": []
+    },
+    {
+      "name": "RCOS Open Source Development",
+      "code": "CSCI4700",
+      "description": "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. RCOS is a project-based course in which students join a project team and work primarily on one open-source project throughout the semester. Projects must be open source but can be existing external projects, internal (RCOS) projects, or new endeavors. Collaborative and cross-disciplinary projects are encouraged. Students are required to consistently contribute to their open source projects, in particular through multiple commits (commit early, commit often), presenting their work and/or specific technical talks, mentoring other projects, and generally contributing to the open source community.",
+      "tags": []
+    },
+    {
+      "name": "RCOS Senior Project Leader",
+      "code": "CSCI4710",
+      "description": "The mission of the Rensselaer Center for Open Source (RCOS) is to cultivate an inclusive, creative, and entrepreneurial community that seeks to empower students to develop open-source solutions to real-world problems. In this course, students lead a project team and work on an open source project that they have initially worked on in CSCI 4700. Students are required to manage this project, substantially contribute to this project, and present their project work as a final oral presentation. This course may not be repeated, with final grades based on effort, contributions, presentation, and the success of the given project. To register for this course, students must provide an individual project proposal to the instructor prior to the start of the semester.",
+      "tags": []
+    },
+    {
+      "name": "Projects in AI & Machine Learning",
+      "code": "CSCI6170",
+      "description": "We will study machine learning and AI solutions to real world problems using publicly available datasets. Topics include Deep Learning, Training Neural Networks (NN), Recurrent NN, Convolution NN, Auto-encoders, Generative Models, Natural Language processing (NLP), Reinforcement Learning, Diffusion models, Recommender Systems. Course activities include weekly project-based assignments, reading research papers, weekly discussion on recent research related to the lecture topic and a final project/paper with presentation.",
+      "tags": []
+    },
+    {
+      "name": "Undergraduate Research Project",
+      "code": "CSCI2941",
+      "description": "",
+      "tags": []
+    },
+    {
+      "name": "Undergraduate Research Project",
+      "code": "CSCI4941",
+      "description": "",
+      "tags": []
     }
   ]
 }
