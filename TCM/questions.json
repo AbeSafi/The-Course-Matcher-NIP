@@ -1,0 +1,163 @@
+{
+  "questionnaire": [
+    {
+      "id": "q1",
+      "category": "foundational",
+      "text": "What is your current level of programming experience?",
+      "type": "single",
+      "required": true,
+      "answers": [
+        {
+          "text": "I'm just starting out; little to no experience.",
+          "tags": ["prereq:beginner"]
+        },
+        {
+          "text": "I know basic syntax and can write small programs.",
+          "tags": ["prereq:intermediate", "looking-to-skill-up"]
+        },
+        {
+          "text": "I'm comfortable with data structures and writing complex programs.",
+          "tags": ["prereq:advanced", "prereq:data-structures"]
+        },
+        {
+          "text": "I have significant project or industry experience.",
+          "tags": ["prereq:advanced", "skill:programming-heavy"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "category": "foundational",
+      "text": "Which of the following core courses have you already completed? (Select all that apply)",
+      "type": "multiple",
+      "required": false,
+      "answers": [
+        {
+          "text": "Data Structures (CSCI1200)",
+          "tags": ["prereq:data-structures"]
+        },
+        {
+          "text": "Foundations of Computer Science (CSCI2200)",
+          "tags": ["skill:theory-heavy"]
+        },
+        {
+          "text": "Computer Organization (CSCI2500) or Computer Architecture & Operating Systems (CSCI2800)",
+          "tags": ["prereq:computer-organization"]
+        },
+        {
+          "text": "Introduction to Algorithms (CSCI2300)",
+          "tags": ["prereq:algorithms"]
+        },
+        {
+          "text": "None of the above",
+          "tags": ["prereq:beginner"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "category": "foundational",
+      "text": "How comfortable are you with mathematical theory and proofs?",
+      "type": "single",
+      "required": true,
+      "answers": [
+        {
+          "text": "I enjoy and am strong in theoretical/mathematical subjects.",
+          "tags": ["skill:math-intensive", "prefers:theory-heavy"]
+        },
+        {
+          "text": "I'm comfortable with a balanced mix of theory and practice.",
+          "tags": []
+        },
+        {
+          "text": "I strongly prefer practical, hands-on work over deep theory.",
+          "tags": ["avoids:heavy-theory"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "category": "foundational",
+      "text": "Are you currently involved in or looking for undergraduate research opportunities?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["style:research-oriented"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "category": "interests",
+      "text": "What area of Computer Science are you most interested in exploring? (Select up to two)",
+      "type": "multiple",
+      "required": true,
+      "maxSelections": 2,
+      "answers": [
+        {
+          "text": "Artificial Intelligence & Machine Learning",
+          "tags": ["topic:ai-ml"]
+        },
+        {
+          "text": "Systems, Hardware, and Operating Systems",
+          "tags": ["topic:systems"]
+        },
+        {
+          "text": "Theory, Algorithms, and Computation",
+          "tags": ["topic:theory"]
+        },
+        {
+          "text": "Data Science, Analytics, and Mining",
+          "tags": ["topic:data-science"]
+        },
+        {
+          "text": "Cybersecurity and Cryptography",
+          "tags": ["topic:security"]
+        },
+        {
+          "text": "Software Engineering and Large-Scale Development",
+          "tags": ["topic:software-engineering"]
+        },
+        {
+          "text": "Networks and Distributed Systems",
+          "tags": ["topic:networking", "topic:parallel-distributed"]
+        },
+        {
+          "text": "Computer Graphics and Visualization",
+          "tags": ["topic:graphics-visualization"]
+        },
+        {
+          "text": "Web and Mobile Development",
+          "tags": ["topic:web-development"]
+        },
+        {
+          "text": "I'm not sure yet; I want to explore broadly.",
+          "tags": ["interest:undecided"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "category": "interests",
+      "text": "Are you interested in Artificial Intelligence and Machine Learning topics?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:ai-ml"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    }
+  ]
+}
