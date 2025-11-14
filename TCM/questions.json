@@ -449,6 +449,188 @@
           "tags": ["preference:moderate-workload"]
         }
       ]
+    },
+    {
+      "id": "q22",
+      "category": "goals",
+      "text": "Are you looking to fulfill core requirements or explore elective topics?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Core requirements",
+          "tags": ["goal:foundation"]
+        },
+        {
+          "text": "Elective topics",
+          "tags": ["goal:exploration"]
+        },
+        {
+          "text": "Both",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q23",
+      "category": "goals",
+      "text": "Are you preparing for industry jobs/internships or graduate school/research?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Industry jobs/internships",
+          "tags": ["goal:industry-skills"]
+        },
+        {
+          "text": "Graduate school/research",
+          "tags": ["style:research-oriented"]
+        },
+        {
+          "text": "Not sure yet",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q24",
+      "category": "goals",
+      "text": "Do you prefer courses with regular assignments or fewer, larger deliverables?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Regular assignments",
+          "tags": ["prefers:modular-work"]
+        },
+        {
+          "text": "Fewer, larger deliverables",
+          "tags": ["prefers:project-work"]
+        },
+        {
+          "text": "No preference",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q25",
+      "category": "skills",
+      "text": "Do you want to develop specific programming language skills?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["skill:programming-heavy"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q26",
+      "category": "skills",
+      "text": "Are you interested in security and cybersecurity topics?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:security"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q27",
+      "category": "skills",
+      "text": "Are you interested in parallel and distributed computing?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:parallel-distributed"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q28",
+      "category": "skills",
+      "text": "Are you interested in database systems and management?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:databases"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q29",
+      "category": "skills",
+      "text": "Are you interested in human-computer interaction and UX design?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["skill:interdisciplinary"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q30",
+      "category": "skills",
+      "text": "Are you interested in robotics or embedded systems?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:robotics"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q31",
+      "category": "skills",
+      "text": "Are you interested in computational biology, social networks, or other interdisciplinary applications?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["skill:interdisciplinary"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
     }
   ]
 }
