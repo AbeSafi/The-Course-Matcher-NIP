@@ -158,6 +158,150 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": "q7",
+      "category": "interests",
+      "text": "Are you interested in low-level systems programming (operating systems, networks, security)?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:systems", "topic:networking", "topic:security"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "category": "interests",
+      "text": "Are you interested in data science, analytics, and working with large datasets?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:data-science"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "category": "interests",
+      "text": "Are you interested in software engineering and building large-scale applications?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:software-engineering"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q10",
+      "category": "interests",
+      "text": "Are you interested in theoretical computer science (algorithms, complexity, computation)?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:theory"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q11",
+      "category": "interests",
+      "text": "Are you interested in computer graphics, visualization, or game development?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:graphics-visualization"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q12",
+      "category": "interests",
+      "text": "Are you interested in web and mobile application development?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["topic:web-development"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q13",
+      "category": "preferences",
+      "text": "What is your preferred balance between theory and practice?",
+      "type": "single",
+      "required": true,
+      "answers": [
+        {
+          "text": "Heavily theoretical (proofs, algorithms, mathematical models)",
+          "tags": ["prefers:theory-heavy"]
+        },
+        {
+          "text": "A balanced mix of both",
+          "tags": []
+        },
+        {
+          "text": "Heavily practical (building, coding, hands-on projects)",
+          "tags": ["skill:programming-heavy"]
+        }
+      ]
+    },
+    {
+      "id": "q14",
+      "category": "preferences",
+      "text": "What type of coursework do you prefer?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Many small, focused assignments",
+          "tags": ["prefers:modular-work"]
+        },
+        {
+          "text": "Larger, open-ended projects",
+          "tags": ["prefers:project-work"]
+        },
+        {
+          "text": "No strong preference",
+          "tags": []
+        }
+      ]
     }
   ]
 }
