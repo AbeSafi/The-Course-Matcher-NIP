@@ -302,6 +302,153 @@
           "tags": []
         }
       ]
+    },
+    {
+      "id": "q15",
+      "category": "preferences",
+      "text": "How do you feel about team-based projects versus individual work?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Strongly prefer individual work",
+          "tags": ["prefers:individual-work"]
+        },
+        {
+          "text": "Prefer individual work",
+          "tags": ["prefers:individual-work"]
+        },
+        {
+          "text": "No preference",
+          "tags": []
+        },
+        {
+          "text": "Prefer team-based work",
+          "tags": ["prefers:team-work"]
+        },
+        {
+          "text": "Strongly prefer team-based work",
+          "tags": ["prefers:team-work"]
+        }
+      ]
+    },
+    {
+      "id": "q16",
+      "category": "preferences",
+      "text": "Are you looking for a course that culminates in a large final project?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["prefers:project-work", "style:high-workload"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q17",
+      "category": "preferences",
+      "text": "Are you interested in working on open-source software as part of your coursework?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["style:open-source"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q18",
+      "category": "preferences",
+      "text": "Do you prefer courses with strong coding components?",
+      "type": "yesno",
+      "required": false,
+      "answers": [
+        {
+          "text": "Yes",
+          "tags": ["skill:programming-heavy"]
+        },
+        {
+          "text": "No",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q19",
+      "category": "preferences",
+      "text": "How important is it for you to develop professional communication skills (writing, presentations)?",
+      "type": "single",
+      "required": false,
+      "answers": [
+        {
+          "text": "Very important",
+          "tags": ["skill:communication-intensive"]
+        },
+        {
+          "text": "Somewhat important",
+          "tags": []
+        },
+        {
+          "text": "Not important",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "q20",
+      "category": "goals",
+      "text": "What is your primary goal for the next semester?",
+      "type": "single",
+      "required": true,
+      "answers": [
+        {
+          "text": "Fulfill core requirements and build a strong foundation",
+          "tags": ["goal:foundation"]
+        },
+        {
+          "text": "Gain practical, industry-relevant skills for a job/internship",
+          "tags": ["goal:industry-skills"]
+        },
+        {
+          "text": "Dive deep into a specific research or advanced topic",
+          "tags": ["goal:specialization"]
+        },
+        {
+          "text": "Explore different areas to find my passion",
+          "tags": ["goal:exploration"]
+        }
+      ]
+    },
+    {
+      "id": "q21",
+      "category": "goals",
+      "text": "What is your tolerance for courses with a very high workload?",
+      "type": "single",
+      "required": true,
+      "answers": [
+        {
+          "text": "I'm seeking a challenge and am prepared for a heavy workload",
+          "tags": ["tolerance:high-workload"]
+        },
+        {
+          "text": "I prefer a standard, manageable workload",
+          "tags": []
+        },
+        {
+          "text": "I need a lighter workload this semester",
+          "tags": ["preference:moderate-workload"]
+        }
+      ]
     }
   ]
 }
